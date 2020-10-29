@@ -1,4 +1,9 @@
-
+2020-10-29
+newest relesed 战地1中文聊天小工具 Beta 1.4.exe
+video tutorial:https://www.bilibili.com/video/BV1At4y1e75F 
+downloadlink from github or https://crazyzhang.lanzoux.com/s/bf1-chat-chs
+now we can type chinese normally
+=====================
 Because some function is written by CheatEngine the antivirus software may show dangerous, we promise there is no virus in it,try or not is by your will.
 1.exe MD5:555fb1f31927e723cda113d493efc4b2
 2.exe MD5:d63697d1f96f5b5308b5acea7219a2be
